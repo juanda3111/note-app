@@ -4,7 +4,7 @@ const file = require('fs')
 const { title } = require('process')
 
 //const exec = ('child_process').exec
-//console.log('test1')
+//console.log('test1') 00
 
 const filenames= file.readdirSync('./');
 
